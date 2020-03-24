@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
     font-size: 100%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Baloo Da 2', ROBOTO;;
 	background:#ffffff;
 	margin: 0;
 }
@@ -16,7 +16,7 @@ p,ul li,ol li{
 	letter-spacing: 1px;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Gidugu', sans-serif;
+	font-family: 'Baloo Da 2', ROBOTO;
 	text-transform:uppercase;
 	margin:0;
 }
