@@ -19,6 +19,7 @@ p,ul li,ol li{
 }
 h1,h2,h3,h4,h5,h6{
 	font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
+  font-weight: 600
 	text-transform:uppercase;
 	margin:0;
 }
